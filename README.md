@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Go_to_This_Language:-English-blue.svg)](https://github.com/tashteg0/Whanalyzer/blob/main/README.english.md)
+
 # Whanalyzer
 Whatsapp mesajlarını analiz etmek için Excel'de oluşturulmuş analiz uygulaması.
 
